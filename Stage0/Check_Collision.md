@@ -13,7 +13,7 @@ and four sides of wall. This module will return the collision type.
 
   When there is a input frame update from poll input module
 
-  Then compute and return there is any collision or not in the given frame
+  Then compute and return if there is any collision or not in the given frame
 
 ### Scenario: There is collision between ball and paddles/walls in the frame
 
@@ -21,6 +21,6 @@ and four sides of wall. This module will return the collision type.
 
   When there is a input frame update from poll input module
 
-  Then compute and return the collision type that has occured
+  Then compute and return the collision type
  (collision between ball and paddles or collision between ball
  and top/bottom wall or collision between ball and left/right wall).
