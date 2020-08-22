@@ -2,7 +2,8 @@
 
 ## Feature
 
-This module sets the background of board, color of ball and paddles, paddles size and walls of board.
+This module sets the background of board, color of ball and paddles,
+paddles size and walls of board.
 
 ## Acceptance Criteria
 
