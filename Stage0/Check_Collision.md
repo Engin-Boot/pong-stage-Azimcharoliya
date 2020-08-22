@@ -2,7 +2,7 @@
 
 ## Feature
 
-This module will be responsible for determining collison between ball,paddles
+This module will be responsible for determining collision between ball,paddles
 and four sides of wall. This module will return the collision type.
 
 ## Acceptance Criteria
