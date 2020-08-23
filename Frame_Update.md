@@ -1,8 +1,8 @@
-# Poll Input
+# Frame Update
 
 ## Feature
 
-This module will return per frame input updates from the game.
+This module will return per frame updates from the game.
 
 ## Acceptance Criteria
 
