@@ -1,8 +1,28 @@
-# The Essentials
 
-1. Breakdown the problem into modules. Name each module
-1. Rename the 'give-me-a-name...' files to reflect the module names.
-Create more files for more modules.
-Fill the responsibility and acceptance-criteria in each module.
-1. Fill the sequence-start file with the details of module-interactions,
-as indicated in that file.
+# Pong Game Initial Decomposition
+
+## Modules
+
+The game consist of the following  modules:
+
+Set_Board: Sets the board of the game
+
+Start_Game: Starts the game
+
+Update_UI: Updates the game UI
+
+Poll_Input: Collects the player inputs
+
+Frame_Update: Returns the current frame of the game
+
+Check_Collision: Checks the ball collision during the game
+
+Update_Direction_Velocity: Updates direction and velocity of the ball
+
+Update_Score_Count: Updates player score during the game
+
+Check_Winner: Checks for the winner
+
+Reset_Ball: Resets the ball during the game
+
+Sequence start file contains details of module interaction
