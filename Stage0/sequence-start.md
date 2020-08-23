@@ -15,9 +15,9 @@ sequenceDiagram
 ```mermaid
 sequenceDiagram
   Frame_Update->>+Check_Collision: Current Frame
-  Check_Collision->>+Update_Direction_Velocity:Collision between ball and paddles or top/bottom wall
+  Check_Collision->>+Update_Dir_Vel:Collision between ball,paddles,top/bottom wall
   Check_Collision->>+Update_Score_Count:Collision between ball and right/left wall
-  Update_Direction_Velocity->>+Update_UI: Updates
+  Update_Dir_Vel->>+Update_UI: Updates
   Update_Score_Count->>+Update_UI: Updates
 ```
 
