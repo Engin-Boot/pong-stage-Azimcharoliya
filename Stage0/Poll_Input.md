@@ -2,7 +2,7 @@
 
 ## Feature
 
-This module will collect user input and perform UI update accordingly.
+This module will collect player inputs during the game.
 
 ## Acceptance Criteria
 
@@ -10,6 +10,6 @@ This module will collect user input and perform UI update accordingly.
 
   Given the user is playing game on active device
 
-  When there is a input from user
+  When there is a input from player
 
-  Then this module will collect input and then update UI during the game
+  Then this module will collect that input from player during the game
