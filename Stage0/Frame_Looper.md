@@ -2,7 +2,8 @@
 
 ## Feature
 
-This module will continuously call get current frame module after every 100ms interval.
+This module will continuously call get current frame module after
+every 100 milliseconds.
 
 ## Acceptance Criteria
 
@@ -12,4 +13,5 @@ This module will continuously call get current frame module after every 100ms in
 
   When the user is playing game
 
-  Then this module will trigger get current frame module after every 100ms interval
+  Then this module will trigger get current frame module after
+  every 100 milliseconds
