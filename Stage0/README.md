@@ -13,7 +13,9 @@ Update UI : Updates the game UI
 
 Poll Input : Collects the player inputs
 
-Frame Update : Returns the current frame of the game
+Get Current Frame : Returns the current frame of the game
+
+Frame Looper: Calls the get current frame module after 100ms interval
 
 Check Collision : Checks the ball collision during the game
 
