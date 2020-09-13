@@ -30,4 +30,3 @@ paddles size and walls of board.
   When I click on start game
 
   Then this module will set paddles and wall of the board
-  
